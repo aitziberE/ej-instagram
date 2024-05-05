@@ -1,0 +1,18 @@
+html{
+    font-size: 15px;
+}
+body{
+    font-family: "Segoe UI", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #262626;
+}
+span {
+    font-weight: bold;
+}
+a{
+    color: #262626;
+}
+a:hover{
+    text-decoration: underline;
+}
